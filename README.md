@@ -26,7 +26,7 @@
 - VSCode Editor
 ---
 
-## 🧪 First Program in TypeScript
+## First Program in TypeScript
 
 ### How to print "Hello World !!!" ?
 - create a file with extension as .ts and save the file (Example file name : MyFirstProgram.ts)
